@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Local service illustration</title>
+  <desc id="desc">Abstract warm illustration of a home, a person and a conversation bubble.</desc>
+  <rect width="1200" height="900" fill="#f6ebe4"/>
+  <circle cx="950" cy="170" r="120" fill="#e9c9b4"/>
+  <path d="M150 650 510 300l360 350v120H150z" fill="#b25e2b" opacity=".92"/>
+  <path d="m330 505 180-175 180 175v265H330z" fill="#fffaf6"/>
+  <rect x="405" y="600" width="95" height="170" rx="12" fill="#b25e2b"/>
+  <rect x="575" y="570" width="110" height="90" rx="10" fill="#e9c9b4"/>
+  <circle cx="850" cy="520" r="115" fill="#0d5c63"/>
+  <path d="M790 650 740 790l115-65 75 25-28-100z" fill="#0d5c63"/>
+  <circle cx="815" cy="500" r="12" fill="#fffaf6"/><circle cx="875" cy="500" r="12" fill="#fffaf6"/>
+  <path d="M810 555q35 28 70 0" fill="none" stroke="#fffaf6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M760 210h300a35 35 0 0 1 35 35v115a35 35 0 0 1-35 35H900l-80 55 15-55h-75a35 35 0 0 1-35-35V245a35 35 0 0 1 35-35Z" fill="#fffaf6"/>
+  <circle cx="850" cy="300" r="12" fill="#b25e2b"/><circle cx="910" cy="300" r="12" fill="#b25e2b"/><circle cx="970" cy="300" r="12" fill="#b25e2b"/>
+</svg>

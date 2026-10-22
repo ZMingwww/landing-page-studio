@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Car detailing service</title>
+  <desc id="desc">Illustrated polished car in a warm garage with detailing tools and a cloth.</desc>
+  <rect width="1200" height="900" fill="#f6ebe4"/>
+  <circle cx="950" cy="160" r="130" fill="#e9c9b4"/>
+  <path d="M130 690c42-154 170-230 345-230h220c130 0 245 69 338 230z" fill="#b25e2b"/>
+  <path d="M290 545c74-108 160-166 272-166h122c90 0 164 65 230 166z" fill="#fffaf6"/>
+  <path d="M356 537c60-69 126-104 204-104h80c63 0 115 42 166 104z" fill="#dcebea"/>
+  <circle cx="320" cy="704" r="72" fill="#1d2733"/><circle cx="320" cy="704" r="33" fill="#e9c9b4"/>
+  <circle cx="820" cy="704" r="72" fill="#1d2733"/><circle cx="820" cy="704" r="33" fill="#e9c9b4"/>
+  <path d="M185 705h770" stroke="#fffaf6" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+  <path d="M845 290h196a28 28 0 0 1 28 28v166a28 28 0 0 1-28 28h-88l-60 52 14-52h-62a28 28 0 0 1-28-28V318a28 28 0 0 1 28-28Z" fill="#0d5c63"/>
+  <path d="M894 365h94M894 410h116M894 455h74" stroke="#e5f1f0" stroke-width="13" stroke-linecap="round"/>
+  <path d="M175 258h104l22 22-22 22H175z" fill="#0d5c63"/><path d="M144 258h31v44h-31z" fill="#b25e2b"/>
+</svg>

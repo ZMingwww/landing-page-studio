@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Exterior car detailing</title>
+  <desc id="desc">Illustrated car silhouette with a cloth and shine marks.</desc>
+  <rect width="800" height="520" rx="32" fill="#e9c9b4"/>
+  <path d="M116 354c30-105 112-154 240-154h100c98 0 180 52 225 154z" fill="#b25e2b"/>
+  <path d="M234 228c49-60 102-88 174-88h44c64 0 119 31 168 88z" fill="#fffaf6"/>
+  <path d="M278 220c40-39 83-57 128-57h37c39 0 76 21 112 57z" fill="#dcebea"/>
+  <circle cx="219" cy="361" r="48" fill="#1d2733"/><circle cx="219" cy="361" r="20" fill="#e9c9b4"/>
+  <circle cx="583" cy="361" r="48" fill="#1d2733"/><circle cx="583" cy="361" r="20" fill="#e9c9b4"/>
+  <path d="M620 118l12 30 30 12-30 12-12 30-12-30-30-12 30-12zM156 126l8 20 20 8-20 8-8 20-8-20-20-8 20-8z" fill="#0d5c63"/>
+</svg>
